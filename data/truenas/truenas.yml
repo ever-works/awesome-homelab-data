@@ -1,0 +1,13 @@
+name: "TrueNAS"
+description: "Network-attached storage operating system based on OpenZFS. Provides storage management, replication, and sharing via SMB, NFS, and iSCSI. Developed by iXsystems."
+source_url: "https://www.truenas.com/"
+category: "Hypervisors & Operating Systems"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "nas"
+  - "zfs"
+  - "storage"
+icon_url: "https://icons.duckduckgo.com/ip3/www.truenas.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.truenas.com/>\n- Repository: <https://github.com/truenas>\n\nLicense: BSD.\n"
+updated_at: "2026-11-21 01:16"

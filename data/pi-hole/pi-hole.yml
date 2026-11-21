@@ -1,0 +1,13 @@
+name: "Pi-hole"
+description: "Network-level advertisement and tracker blocking sinkhole. Acts as a DNS sinkhole to block ads across all devices on a network. Open-source and self-hosted."
+source_url: "https://pi-hole.net/"
+category: "Self-Hosted Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "dns"
+  - "ad-blocking"
+  - "network"
+icon_url: "https://icons.duckduckgo.com/ip3/pi-hole.net.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://pi-hole.net/>\n- Repository: <https://github.com/pi-hole>\n\nLicense: EUPL-1.2.\n"
+updated_at: "2026-11-21 01:16"

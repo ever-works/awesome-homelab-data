@@ -1,0 +1,13 @@
+name: "WireGuard"
+description: "Open-source VPN protocol and software. Designed for simplicity and high performance with modern cryptography. Can be self-hosted or integrated into other tools."
+source_url: "https://www.wireguard.com/"
+category: "Networking & VPN"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "vpn"
+  - "protocol"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.wireguard.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.wireguard.com/>\n- Repository: <https://github.com/WireGuard>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 01:16"

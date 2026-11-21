@@ -1,0 +1,13 @@
+name: "Ubuntu Server"
+description: "Linux server distribution by Canonical. Optimized for cloud, data center, and homelab deployments with LTS releases. Free to use with optional paid support."
+source_url: "https://ubuntu.com/server"
+category: "Hypervisors & Operating Systems"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "linux"
+  - "server"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/ubuntu.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ubuntu.com/server>\n- Repository: <https://github.com/canonical>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 01:16"

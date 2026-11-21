@@ -1,0 +1,12 @@
+- id: hardware-mini-pcs-nas-networking
+  name: "Hardware (Mini PCs, NAS, Networking)"
+- id: hypervisors-and-operating-systems
+  name: "Hypervisors & Operating Systems"
+- id: self-hosted-apps
+  name: "Self-Hosted Apps"
+- id: networking-and-vpn
+  name: "Networking & VPN"
+- id: monitoring-and-dashboards
+  name: "Monitoring & Dashboards"
+- id: guides-and-communities
+  name: "Guides & Communities"

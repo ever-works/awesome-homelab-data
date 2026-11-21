@@ -1,0 +1,13 @@
+name: "r/homelab"
+description: "Reddit community dedicated to homelab discussions. Users share hardware builds, software configurations, and troubleshooting advice. Free to read and participate."
+source_url: "https://www.reddit.com/r/homelab"
+category: "Guides & Communities"
+tags:
+  - "free"
+  - "community"
+  - "forum"
+  - "guides"
+  - "homelab"
+icon_url: "https://icons.duckduckgo.com/ip3/www.reddit.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.reddit.com/r/homelab>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:16"

@@ -1,0 +1,13 @@
+name: "Techno Tim"
+description: "Content creator and homelab enthusiast. Publishes tutorials, hardware reviews, and software guides for self-hosting. Free access to articles and videos."
+source_url: "https://technotim.live/"
+category: "Guides & Communities"
+tags:
+  - "free"
+  - "community"
+  - "guides"
+  - "tutorials"
+  - "homelab"
+icon_url: "https://icons.duckduckgo.com/ip3/technotim.live.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://technotim.live/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:16"

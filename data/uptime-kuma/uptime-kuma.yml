@@ -1,0 +1,13 @@
+name: "Uptime Kuma"
+description: "Self-hosted monitoring tool for tracking website and service uptime. Supports HTTP, TCP, and DNS monitoring with notifications. Open-source with a web dashboard."
+source_url: "https://uptime.kuma.pet/"
+category: "Monitoring & Dashboards"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "monitoring"
+  - "uptime"
+  - "dashboard"
+icon_url: "https://icons.duckduckgo.com/ip3/uptime.kuma.pet.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://uptime.kuma.pet/>\n- Repository: <https://github.com/louislam/uptime-kuma>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:16"

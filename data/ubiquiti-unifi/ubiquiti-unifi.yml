@@ -1,0 +1,13 @@
+name: "Ubiquiti UniFi"
+description: "Commercial networking hardware and software ecosystem. Includes access points, switches, gateways, and a centralized controller. Managed via UniFi Network application."
+source_url: "https://ui.com/"
+category: "Hardware (Mini PCs, NAS, Networking)"
+tags:
+  - "paid"
+  - "hardware"
+  - "networking"
+  - "wi-fi"
+  - "controller"
+icon_url: "https://icons.duckduckgo.com/ip3/ui.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://ui.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:16"

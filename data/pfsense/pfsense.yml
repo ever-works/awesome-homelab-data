@@ -1,0 +1,13 @@
+name: "pfSense"
+description: "Open-source firewall and router software based on FreeBSD. Provides packet filtering, VPN, and traffic shaping through a web interface. Maintained by Netgate."
+source_url: "https://www.pfsense.org/"
+category: "Networking & VPN"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "firewall"
+  - "router"
+  - "freebsd"
+icon_url: "https://icons.duckduckgo.com/ip3/www.pfsense.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.pfsense.org/>\n- Repository: <https://github.com/pfsense>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:16"

@@ -1,0 +1,13 @@
+name: "Proxmox VE"
+description: "Open-source virtualization platform based on Debian. Supports KVM virtual machines and LXC containers with a web-based management interface. Used for home labs and enterprise virtualization."
+source_url: "https://www.proxmox.com/en"
+category: "Hypervisors & Operating Systems"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "hypervisor"
+  - "virtualization"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.proxmox.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.proxmox.com/en>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 01:16"

@@ -1,0 +1,13 @@
+name: "Docker"
+description: "Containerization platform for developing, shipping, and running applications. Uses OS-level virtualization to deliver software in containers. Community edition is free; Docker Desktop has paid terms for large enterprises."
+source_url: "https://www.docker.com/"
+category: "Self-Hosted Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "containers"
+  - "api"
+  - "linux"
+icon_url: "https://icons.duckduckgo.com/ip3/www.docker.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.docker.com/>\n- Repository: <https://github.com/moby/moby>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:16"

@@ -1,0 +1,13 @@
+name: "Tailscale"
+description: "Zero-config VPN built on WireGuard. Creates private networks between devices using existing identity providers. Offers free personal plans and paid business tiers."
+source_url: "https://tailscale.com/"
+category: "Networking & VPN"
+tags:
+  - "freemium"
+  - "self-hosted"
+  - "vpn"
+  - "wireguard"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/tailscale.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://tailscale.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:16"

@@ -1,0 +1,13 @@
+name: "Nextcloud"
+description: "Open-source self-hosted collaboration platform. Provides file storage, calendar, contacts, and document editing. Can be installed on private servers."
+source_url: "https://nextcloud.com/"
+category: "Self-Hosted Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "file-storage"
+  - "collaboration"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/nextcloud.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://nextcloud.com/>\n- Repository: <https://github.com/nextcloud>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 01:16"

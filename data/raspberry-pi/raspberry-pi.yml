@@ -1,0 +1,13 @@
+name: "Raspberry Pi"
+description: "Series of small single-board computers. Widely used in homelabs for lightweight servers, media centers, and IoT projects. Sold as commercial hardware."
+source_url: "https://www.raspberrypi.com/"
+category: "Hardware (Mini PCs, NAS, Networking)"
+tags:
+  - "paid"
+  - "hardware"
+  - "mini-pc"
+  - "single-board-computer"
+  - "iot"
+icon_url: "https://icons.duckduckgo.com/ip3/www.raspberrypi.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.raspberrypi.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:16"

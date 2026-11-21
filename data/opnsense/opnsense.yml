@@ -1,0 +1,13 @@
+name: "OPNsense"
+description: "Open-source firewall and routing distribution based on FreeBSD. Offers web GUI, intrusion detection, and VPN capabilities. Suitable for replacing consumer routers."
+source_url: "https://opnsense.org/"
+category: "Networking & VPN"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "firewall"
+  - "router"
+  - "freebsd"
+icon_url: "https://icons.duckduckgo.com/ip3/opnsense.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://opnsense.org/>\n- Repository: <https://github.com/opnsense>\n\nLicense: BSD-2-Clause.\n"
+updated_at: "2026-11-21 01:16"

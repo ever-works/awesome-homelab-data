@@ -1,0 +1,13 @@
+name: "ServeTheHome"
+description: "Independent technology news and review site focused on servers and storage. Publishes hardware reviews, guides, and homelab content. Free access."
+source_url: "https://servethehome.com/"
+category: "Guides & Communities"
+tags:
+  - "free"
+  - "community"
+  - "guides"
+  - "reviews"
+  - "hardware"
+icon_url: "https://icons.duckduckgo.com/ip3/servethehome.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://servethehome.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:16"

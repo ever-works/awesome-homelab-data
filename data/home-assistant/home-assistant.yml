@@ -1,0 +1,13 @@
+name: "Home Assistant"
+description: "Open-source home automation platform. Integrates with thousands of devices and services for local control and automation. Self-hosted on Raspberry Pi or servers."
+source_url: "https://www.home-assistant.io/"
+category: "Self-Hosted Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "home-automation"
+  - "iot"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.home-assistant.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.home-assistant.io/>\n- Repository: <https://github.com/home-assistant>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:16"

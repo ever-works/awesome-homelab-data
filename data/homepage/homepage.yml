@@ -1,0 +1,13 @@
+name: "Homepage"
+description: "Open-source dashboard for homelab services. Displays service status, widgets, and links in a customizable interface. Self-hosted via Docker."
+source_url: "https://gethomepage.dev/"
+category: "Self-Hosted Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "dashboard"
+  - "homelab"
+  - "docker"
+icon_url: "https://icons.duckduckgo.com/ip3/gethomepage.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://gethomepage.dev/>\n- Repository: <https://github.com/gethomepage/homepage>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:16"
